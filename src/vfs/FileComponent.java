@@ -1,17 +1,19 @@
 package vfs;
 
-public abstract class FileComponent implements VFSNode {
+public abstract class FileComponent
+{
     protected String name;
 
-    public FileComponent(String name) {
+    public FileComponent(String name)
+    {
         this.name = name;
     }
 
-    @Override
-    public String getName() {
+    public String getName() 
+    {
         return name;
     }
 
-    @Override
     public abstract void display(String indent);
+    
 }
