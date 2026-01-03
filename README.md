@@ -125,4 +125,4 @@ For example, show [FOLDER] or [FILE] tags in the tree output.
 🧑‍💻 Author
 Aazain Jan
 
-Project created as part of the Software Construction & Development (SCD) coursework.
+Project created as part of my Software Construction & Development (SCD) coursework (Fall-2025).
